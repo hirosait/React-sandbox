@@ -219,3 +219,7 @@ const nameArr = ["田中", "山田", "じゃんけん"];
 
 // const val1 = 1 > 0 ? 'trueです' : 'falseです';
 // console.log(val1);
+
+const num = 1300;
+console.log(num.toLocaleString());
+
